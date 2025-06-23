@@ -1,9 +1,5 @@
 streamlit
-pandas
-numpy
 opencv-python-headless
-deepface>=0.0.79
-tf-keras>=2.0.0  # <-- Add this line
-tensorflow>=2.19.0,<2.20.0  # <-- Pin to compatible version
-setuptools
-streamlit-webrtc
+numpy
+deepface>=0.0.75
+tensorflow>=2.16.0
